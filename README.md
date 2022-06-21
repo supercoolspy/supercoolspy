@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supercoolspy&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=supercoolspy&border_color=2E343B&bg_color=0D1117&text_color=8B949E&title_color=FFFFFF&show_icons=true&icon_color=8B949E&count_private=true#gh-dark-mode-only)(https://git.io/streak-stats)
 
 <!--
 **supercoolspy/supercoolspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
